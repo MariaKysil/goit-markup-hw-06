@@ -876,25 +876,7 @@ img {
   color: var(--primary-text-color);
 }
 
-.name-wrapper {
-  margin-top: 12px;
-  display: flex;
-  flex-direction: column;
-}
-
-.phone-wrapper {
-  margin-top: 12px;
-  display: flex;
-  flex-direction: column;
-}
-
-.mail-wrapper {
-  margin-top: 12px;
-  display: flex;
-  flex-direction: column;
-}
-
-.comment-wrapper {
+.signup-form .group {
   margin-top: 12px;
   display: flex;
   flex-direction: column;
