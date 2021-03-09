@@ -844,14 +844,11 @@ img {
   cursor: pointer;
 
   background-color: var(--white-color);
-}
-
-.modal .icon-close {
   transition: fill var(--animation-duration) var(--timing-function);
 }
 
-.modal .icon-close:hover,
-.modal .icon-close:focus {
+.btn-modal:hover,
+.btn-modal:focus {
   fill: var(--accent-color);
 }
 
